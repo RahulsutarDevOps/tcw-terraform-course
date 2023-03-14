@@ -1,5 +1,5 @@
 ##-----------------------------------------------------------##
-# Variable declaration for autoscaling group
+     # Variable declaration for autoscaling group
 ##-----------------------------------------------------------##
 
 variable "use_name_prefix" {
